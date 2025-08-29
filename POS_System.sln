@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS_System.Api", "POS_System.Api\POS_System.Api.csproj", "{C6B54A64-5CDE-4FBD-B620-56D6C3EC7DFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS_System.Api.Tests", "POS_System.Api.Tests\POS_System.Api.Tests.csproj", "{3BFDEC96-4B38-458F-892C-62D5590BA805}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{C6B54A64-5CDE-4FBD-B620-56D6C3EC7DFF}.Release|x64.Build.0 = Release|Any CPU
 		{C6B54A64-5CDE-4FBD-B620-56D6C3EC7DFF}.Release|x86.ActiveCfg = Release|Any CPU
 		{C6B54A64-5CDE-4FBD-B620-56D6C3EC7DFF}.Release|x86.Build.0 = Release|Any CPU
+		{3BFDEC96-4B38-458F-892C-62D5590BA805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BFDEC96-4B38-458F-892C-62D5590BA805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BFDEC96-4B38-458F-892C-62D5590BA805}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3BFDEC96-4B38-458F-892C-62D5590BA805}.Debug|x64.Build.0 = Debug|Any CPU
+		{3BFDEC96-4B38-458F-892C-62D5590BA805}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3BFDEC96-4B38-458F-892C-62D5590BA805}.Debug|x86.Build.0 = Debug|Any CPU
+		{3BFDEC96-4B38-458F-892C-62D5590BA805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BFDEC96-4B38-458F-892C-62D5590BA805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BFDEC96-4B38-458F-892C-62D5590BA805}.Release|x64.ActiveCfg = Release|Any CPU
+		{3BFDEC96-4B38-458F-892C-62D5590BA805}.Release|x64.Build.0 = Release|Any CPU
+		{3BFDEC96-4B38-458F-892C-62D5590BA805}.Release|x86.ActiveCfg = Release|Any CPU
+		{3BFDEC96-4B38-458F-892C-62D5590BA805}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

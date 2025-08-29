@@ -14,7 +14,7 @@ public class MenuPositionService
     {
         db = _db;
     }
-    public async Task<Result<MenuPosition>> AddNewMenuPosition(MenuPositionDto dto)
+    public async Task<Result<MenuPosition>> AddNewMenuPosition(MenuPositionForCreateDto dto)
     {
         var listOfMenuPositions = await db.MenuPositions.Select(p => p.Name).ToListAsync();
         foreach (var menuPositionName in listOfMenuPositions)
@@ -55,7 +55,7 @@ public class MenuPositionService
             return Result.Success(listOfMenuPositions.First(p => p.Name == name));
     }
 
-    public async Task<Result<MenuPosition>> UpdateMenuPosition(MenuPositionDto dto)
+    public async Task<Result<MenuPosition>> UpdateMenuPosition(MenuPositionForCreateDto dto)
     {
         var listOfMenuPositions = await db.MenuPositions.ToListAsync();
         if (listOfMenuPositions.Count == 0)

@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Dtos;
 
-public class MenuPositionDto
+public class MenuPositionForCreateDto
 {
     [Required(ErrorMessage = "Name is required")]
     [StringLength(30, MinimumLength = 3, ErrorMessage = "Name is too long or too short")]

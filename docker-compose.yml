@@ -1,0 +1,22 @@
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: my-sql-server
+    environment:
+      SA_PASSWORD: "PasswordForSQL12345"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+
+  app:
+    build: .
+    image: petrlukyanov/pos_system:latest
+    container_name: my-POS_System-app
+    depends_on:
+      - sqlserver
+    environment:
+      ConnectionStrings__POS_System_Db: "Server=sqlserver,1433;Database=POS_System;User Id=sa;Password=PasswordForSQL12345;"
+      ASPNETCORE_URLS: "http://+:5119;"
+      ASPNETCORE_ENVIRONMENT: "Development"
+    ports:
+      - "5119:5119"    
