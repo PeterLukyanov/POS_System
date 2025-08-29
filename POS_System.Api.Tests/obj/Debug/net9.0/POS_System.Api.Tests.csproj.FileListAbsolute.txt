@@ -1,6 +1,5 @@
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_POS_System.Api.Tests
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_POS_System.Api.Tests
-C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api.Tests\bin\Debug\net9.0\xunit.abstractions.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api.Tests\bin\Debug\net9.0\testhost.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api.Tests\bin\Debug\net9.0\POS_System.Api.deps.json
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api.Tests\bin\Debug\net9.0\POS_System.Api.runtimeconfig.json
@@ -69,6 +68,7 @@ C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_Sy
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api.Tests\bin\Debug\net9.0\System.Security.Permissions.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api.Tests\bin\Debug\net9.0\System.Text.Json.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api.Tests\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api.Tests\bin\Debug\net9.0\xunit.abstractions.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api.Tests\bin\Debug\net9.0\xunit.assert.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api.Tests\bin\Debug\net9.0\xunit.core.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api.Tests\bin\Debug\net9.0\xunit.execution.dotnet.dll

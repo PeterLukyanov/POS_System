@@ -1,8 +1,6 @@
-C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\xunit.abstractions.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\appsettings.json
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\POS_System.Api.staticwebassets.endpoints.json
-C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\POS_System.Api.exe
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\POS_System.Api.deps.json
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\POS_System.Api.runtimeconfig.json
@@ -10,6 +8,7 @@ C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_Sy
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\POS_System.Api.pdb
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\Azure.Core.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\CSharpFunctionalExtensions.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\Humanizer.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -48,6 +47,7 @@ C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_Sy
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -68,9 +68,6 @@ C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_Sy
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\System.Security.Permissions.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\System.Text.Json.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
-C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\xunit.assert.dll
-C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\xunit.core.dll
-C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\xunit.execution.dotnet.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -171,4 +168,3 @@ C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_Sy
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\obj\Debug\net9.0\POS_System.Api.pdb
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\obj\Debug\net9.0\POS_System.Api.genruntimeconfig.cache
 C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\obj\Debug\net9.0\ref\POS_System.Api.dll
-C:\Users\petrl\OneDrive\Рабочий стол\Обучение коду\POS_System\POS_System.Api\bin\Debug\net9.0\CSharpFunctionalExtensions.dll

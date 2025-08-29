@@ -15,7 +15,7 @@ public class PersonDto
     public string LastName { get; set; } = null!;
 
     [Required(ErrorMessage = "Phone number is required")]
-    [StringLength(11, ErrorMessage = "Phone number must be valid")]
+    [StringLength(10, MinimumLength =10, ErrorMessage = "Phone number must be valid")]
     [RegularExpression("^[0-9]+$", ErrorMessage = "Not valid phone number, must be only numbers")]
     public string PhoneNumber { get; set; } = null!;
 
